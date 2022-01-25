@@ -1,0 +1,17 @@
+\contentsline {section}{\numberline {1}Einleitung}{2}
+\contentsline {section}{\numberline {2}Aufgabestellung}{2}
+\contentsline {section}{\numberline {3}Theoretischer Teil:}{3}
+\contentsline {subsection}{\numberline {3.1}Eine Wahrscheinlichkeitsverteilung:}{3}
+\contentsline {subsection}{\numberline {3.2}G\"ultigkeit von der Gleichung $H(X) <= log_2(|X|)$:}{3}
+\contentsline {subsection}{\numberline {3.3}N\"aherung vom Logarithmus Basis 2:}{3}
+\contentsline {subsection}{\numberline {3.4}Speicherstruktur f\"ur Fliesskommazahlen:}{4}
+\contentsline {section}{\numberline {4}Praktischer Teil:}{6}
+\contentsline {subsection}{\numberline {4.1}Benutzer Dokumentation:}{6}
+\contentsline {subsection}{\numberline {4.2}Entwickler Dokumentation:}{10}
+\contentsline {subsection}{\numberline {4.3}Entropie ausf\"uhrliche Implementierung:}{17}
+\contentsline {section}{\numberline {5}Bonus Aufgabe}{20}
+\contentsline {subsection}{\numberline {5.1}Random-Input}{20}
+\contentsline {subsection}{\numberline {5.2}calc\_entropy\_approx Methode:}{21}
+\contentsline {section}{\numberline {6}Performanz und Genauigkeit:}{24}
+\contentsline {subsection}{\numberline {6.1}Pr\"ufung auf Performanz :}{24}
+\contentsline {subsection}{\numberline {6.2}Pr\"ufung auf Genauigkeit:}{26}
